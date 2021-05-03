@@ -1,3 +1,4 @@
+![FSB](fsb_small.jpeg)
 Fantástico Sr. Bit
 -
 
