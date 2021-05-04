@@ -4,7 +4,7 @@ Fantástico Sr. Bit
 
 Homework must me checked periodically between Sunday and Friday, at any time requirements for the week can be modified. Assignments are located at /homework/week_XX.md
 
-Each attendee must maintain its **Home** folder at its own public clone of this project (FSB) and request pull to master's maintainer as soon as he executes a commit. Attendee's home folder are located at /home/AttendeeName. Being AttendeeName an *Underscored list of attendee's last name and given names*. The folder must conform to the following structure:
+Each attendee must maintain his **Home** folder at his own public clone of this project (FSB) and request pull to master's maintainer as soon as he executes a commit. Attendee's home folder are located at /home/AttendeeName. Being AttendeeName an *Underscored list of attendee's last name and given names*. The folder must conform to the following structure:
 
 1. AttendeeHome/Week_XX/AttendatName_Week_XX.md
 2. AttendeeHome/Week_XX/...
